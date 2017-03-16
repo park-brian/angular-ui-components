@@ -1,0 +1,31 @@
+/** fullscreen overlay */
+:host .overlay-fullscreen {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 9999 !important;
+}
+
+/** container overlay */
+:host .overlay-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+:host .overlay {
+  background-color: white;
+  opacity: 0.8;
+}
+
+/** center fullscreen/overlay spinner */
+:host .overlay-fullscreen > .overlay-content,
+:host .overlay-container > .overlay-content {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}

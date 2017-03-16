@@ -1,0 +1,10 @@
+<div 
+  [ngClass]="{
+    'overlay': true,
+    'overlay-fullscreen': fullscreen,
+    'overlay-container': !fullscreen
+  }">
+  <div class="overlay-content">
+    <ng-content></ng-content>
+  </div>
+</div>
