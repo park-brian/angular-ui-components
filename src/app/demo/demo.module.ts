@@ -4,12 +4,18 @@ import { DemoRoutingModule } from './demo-routing.module';
 
 import { DemoComponent } from './demo.component';
 import { SpinnerModule } from '../components';
+import { OverlayModule } from '../components';
+import { SelectModule } from '../components';
+import { TreeViewModule } from '../components';
 
 @NgModule({
   imports: [
     CommonModule,
     DemoRoutingModule,
-    SpinnerModule.forRoot()
+    SpinnerModule.forRoot(),
+    OverlayModule.forRoot(),
+    SelectModule.forRoot(),
+    TreeViewModule.forRoot()
   ],
   exports: [
     DemoComponent
