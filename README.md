@@ -1,4 +1,7 @@
-# AngularUiComponents
+# Angular UI Components
+[![npm version](https://badge.fury.io/js/angular-ui-components.svg)](https://badge.fury.io/js/angular-ui-components)
+[![Build Status](https://travis-ci.org/park-brian/angular-ui-components.svg?branch=master)](https://travis-ci.org/park-brian/angular-ui-components)
+[![dependencies](https://david-dm.org/park-brian/angular-ui-components.svg)](https://david-dm.org/park-brian/angular-ui-components.svg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.4.
 
