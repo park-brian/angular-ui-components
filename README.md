@@ -4,7 +4,7 @@
 [![codecov](https://codecov.io/gh/park-brian/angular-ui-components/branch/master/graph/badge.svg)](https://codecov.io/gh/park-brian/angular-ui-components)
 [![dependencies](https://david-dm.org/park-brian/angular-ui-components.svg)](https://david-dm.org/park-brian/angular-ui-components)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
 
