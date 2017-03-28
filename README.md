@@ -61,12 +61,12 @@ export class AppModule { }
 
 #### Select
 ```javascript
-import { SelectModule } from 'angular-ui-components`;
+import { SelectModule } from 'angular-ui-components';
 ```
 
 #### Tree
 ```javascript
-import { TreeViewModule } from 'angular-ui-components`;
+import { TreeViewModule } from 'angular-ui-components';
 ```
 
 
@@ -75,12 +75,12 @@ import { TreeViewModule } from 'angular-ui-components`;
 
 #### Overlay
 ```javascript
-import { OverlayModule } from 'angular-ui-components`;
+import { OverlayModule } from 'angular-ui-components';
 ```
 
 #### Spinner
 ```javascript
-import { SpinnerModule } from 'angular-ui-components`;
+import { SpinnerModule } from 'angular-ui-components';
 ```
 
 
