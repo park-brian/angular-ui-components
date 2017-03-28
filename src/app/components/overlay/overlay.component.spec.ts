@@ -5,7 +5,7 @@ import { DebugElement } from '@angular/core';
 
 import { OverlayComponent } from './overlay.component';
 
-describe('SpinnerComponent', () => {
+describe('OverlayComponent', () => {
   let component: OverlayComponent;
   let fixture: ComponentFixture<OverlayComponent>;
 

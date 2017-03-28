@@ -1,5 +1,5 @@
 import { TestBed, async } from '@angular/core/testing';
-
+import { DemoModule } from './demo';
 import { AppComponent } from './app.component';
 
 describe('AppComponent', () => {
@@ -7,6 +7,9 @@ describe('AppComponent', () => {
     TestBed.configureTestingModule({
       declarations: [
         AppComponent
+      ],
+      imports: [
+        DemoModule
       ],
     }).compileComponents();
   }));
